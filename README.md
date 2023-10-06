@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FULLSTACK developer </h3>
 
 # 💫 About Me:
--🌱 I’m currently learning ReactJs, Full-Stack Development (MERN), DSA<br>- 💬 Ask me about Frontend Web Development, ReactJs, Object Oriented programming<br>- 📫 How to reach me saishthoratone8@gmail.com<br>-📄 Know about my Resume https://drive.google.com/file/d/1FhRt_7WvIqX8AWpYgYrpt0W80KiN_Kum/view?usp=sharing<br>
+-🌱 I’m currently learning ReactJs, Full-Stack Development (MERN), DSA<br>- 💬 Ask me about Frontend Web Development, ReactJs, Object Oriented programming<br>- 📫 How to reach me saishthoratone8@gmail.com<br>-📄 <a href=" https://drive.google.com/file/d/1FhRt_7WvIqX8AWpYgYrpt0W80KiN_Kum/view?usp=sharing ">Click Here to Download My Resume </a><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-saish-18&label=Profile%20views&color=0e75b6&style=flat" alt="git-saish-18" /> </p>
 
