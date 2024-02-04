@@ -4,6 +4,7 @@
 # 💫 About Me:
 -🌱 I’m currently learning ReactJs, Full-Stack Development (MERN), DSA<br>- 💬 Ask me about Frontend Web Development, ReactJs, Object Oriented programming<br>- 📫 How to reach me saishthoratone8@gmail.com<br>-📄[Click Here to Download My Resume](https://drive.google.com/file/d/1FhRt_7WvIqX8AWpYgYrpt0W80KiN_Kum/view?usp=sharing) <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-saish-18&label=Profile%20views&color=0e75b6&style=flat" alt="git-saish-18" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saishthorat_18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saish-thorat/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/saish_thorat_18) 
